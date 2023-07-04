@@ -330,7 +330,7 @@ export default function Home() {
             ))}
         </div>
         <div>
-          <img className={styles.image} src="./randomWinner.png" />
+          <Image className={styles.image} src="./randomWinner.png" alt = "Cover image" />
         </div>
       </div>
 
